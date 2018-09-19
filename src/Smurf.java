@@ -17,6 +17,7 @@ public class Smurf {
 
 	Smurf(String name) {
 		this.name = name;
+		
 	}
 
 	public String getName() {
@@ -40,6 +41,7 @@ public class Smurf {
 	}
 
 }
+
 
 
 

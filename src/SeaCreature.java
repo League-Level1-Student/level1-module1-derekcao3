@@ -8,7 +8,7 @@ import java.applet.AudioClip;
 
 public class SeaCreature {
 	
-	// 1. In a Runner class, make a SeaCreature called “Spongebob”. Use the methods below to make him eat, and laugh.
+	// 1. In a Runner class, make a SeaCreature called Spongebob. Use the methods below to make him eat, and laugh.
 	// 2. Make Patrick and Squidward and print their name, have them eat, and make them laugh.
 
 
@@ -23,7 +23,7 @@ public class SeaCreature {
 	}
 
 	public void eat() {
-		System.out.println(name + " is eating crusty krab pizza");
+		System.out.println(name + " is eating krusty krab pizza");
 	}
 
 	public void laugh() {
@@ -37,3 +37,4 @@ public class SeaCreature {
 	}
 
 }
+
